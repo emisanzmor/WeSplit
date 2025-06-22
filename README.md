@@ -40,7 +40,8 @@ The app follows MVVM pattern:
 
 ## Screenshots
 
-*Add screenshots here*
+<img width="432" alt="image" src="https://github.com/user-attachments/assets/ee55d65d-1b65-4594-b103-920078a653a4" />
+
 
 ---
 
