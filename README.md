@@ -45,4 +45,4 @@ The app follows MVVM pattern:
 
 ---
 
-by emisanzmor 
+by @emisanzmor 
