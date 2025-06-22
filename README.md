@@ -45,4 +45,4 @@ The app follows MVVM pattern:
 
 ---
 
-Made with ❤️ while learning SwiftUI
+by emisanzmor 
